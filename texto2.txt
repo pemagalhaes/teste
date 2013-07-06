@@ -1,1 +1,4 @@
 nome diferente da versao anterior
+acrescentar mais um nome ao arquivo
+
+<?php phpinfo() ?>
